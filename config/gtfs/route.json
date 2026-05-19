@@ -1,0 +1,31 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "route_id_cleanup_regex": "\\-[A-Z]+$",
+    "default_route_long_name_enabled": true,
+    "route_colors": [
+        {
+            "route_short_name": "22",
+            "color": "1C4B8F"
+        },
+        {
+            "route_short_name": "23",
+            "color": "DA3A89"
+        },
+        {
+            "route_short_name": "162",
+            "color": "EA9937"
+        },
+        {
+            "route_short_name": "163",
+            "color": "96C153"
+        }
+    ],
+    "route_colors_ignored": [
+        "000000"
+    ],
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [],
+    "stop_name_cleaners": []
+}
